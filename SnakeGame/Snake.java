@@ -4,7 +4,6 @@ public class Snake  {
     int y;
     
 
-
     Snake(Border br) {
 
         x = br.rn/2;
@@ -22,29 +21,6 @@ public class Snake  {
 
         
     }
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     public static void main(String[] args) {
